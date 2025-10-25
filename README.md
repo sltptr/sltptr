@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sltptr/sltptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about building side projects that solve real problems, explore new technologies, and help me learn and grow as a developer.
 
-Here are some ideas to get you started:
+## 🚀 My Side Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 LSS
+**Description:** LSS (Less Simple Syndication) is a self-hostable service that learns your preferences for RSS feed items.
+**Tech Stack:** Python, Flask, Sqlite, Docker, (Optional: AWS Sagemaker)
+**Repo:** [Link to repository](https://github.com/sltptr/lss)
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Professionally I mostly work with Java/Spring/Kubernetes
+
+## 📫 How to reach me
+
+- [mike@sltptr.com]
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories and reach out if you want to collaborate.
