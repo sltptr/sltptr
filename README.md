@@ -7,7 +7,9 @@ I'm passionate about building side projects that solve real problems, explore ne
 
 ### 📦 LSS
 **Description:** LSS (Less Simple Syndication) is a self-hostable service that learns your preferences for RSS feed items.
+
 **Tech Stack:** Python, Flask, Sqlite, Docker, (Optional: AWS Sagemaker)
+
 **Repo:** [Link to repository](https://github.com/sltptr/lss)
 
 ---
