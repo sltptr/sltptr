@@ -21,7 +21,6 @@ I'm passionate about building side projects that solve real problems, explore ne
 ## 📫 How to reach me
 
 - [mike@sltptr.com]
-- Resume available upon request.
 
 ---
 
