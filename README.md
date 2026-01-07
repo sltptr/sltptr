@@ -4,7 +4,7 @@
 
 ## 🛠️ Technologies & Tools
 
-Professionally I mostly work with Java/Spring/Kubernetes
+Professionally I mostly work with Java/Spring/Kubernetes/Kafka
 
 ## 📫 Contact
 
