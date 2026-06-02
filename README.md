@@ -1,6 +1,8 @@
 # 🚀 Projects
 
- [LSS - DistilBERT content filter for RSS feeds](https://github.com/sltptr/lss)
+[LSS - Content Filter RSS Feeds](https://github.com/sltptr/lss)
+
+[AlgoLoco - Algorithm Challenges Local-First](https://github.com/sltptr/algoloco)
 
 ## 🛠️ Technologies & Tools
 
