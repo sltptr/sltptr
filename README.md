@@ -2,7 +2,7 @@
 
 [LSS - Content Filter RSS Feeds](https://github.com/sltptr/lss)
 
-[AlgoLoco - Algorithm Challenges Local-First](https://github.com/sltptr/algoloco)
+[AlgoLoco - Algorithms, Local-First](https://github.com/sltptr/algoloco)
 
 ## 🛠️ Technologies & Tools
 
